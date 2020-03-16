@@ -1,0 +1,29 @@
+
+
+**Cleaned up all code lines for optimal reading**
+**Corrected punctuation throughout**
+
+For HTML: 
+Line#:  Issue:
+
+19.) 	h1 tag was needed with closing h1 tag for headline
+44+.) 	About Boo section needed to be separated into paragraphs. Used the <p></p> tags. 
+56.)	"Read more at:" link needed the link location between the parenthesis of <a href=""..." added link location
+65.)	img class tag was missing < before img. 
+71+.)	ordered list did not have list tags. added <li></li> to each list item to show numbers
+105+.)	button id's were mixed up/did not match the id names. Corrected
+129.)	fixed javascript link location to match file name instead of "errors.js"
+
+
+
+For Javascript:
+Line#:	Issue: 
+10.)	Separated booFacts by commas in order to populate facts when button is pushed.
+20.)	Added "" to click in order to specify command "click"
+22.)	Cleaned up code for width section to be on line 21
+25.)	added "" to click in order to specify command "click"
+
+
+
+CSS looked correct
+

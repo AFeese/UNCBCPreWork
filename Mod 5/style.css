@@ -1,0 +1,42 @@
+.center{
+    text-align: center;
+  }
+  p.red {
+    color: red;
+  }
+  p.blue {
+    color: blue;
+  }
+  p.green {
+    color: green;
+  }
+  p.big {
+    font-size: 40px;
+  }
+  p.tiny {
+    font-size: 10px;
+  }
+  .cen{
+    text-align: center;
+  }
+  .bold {
+    font-weight: bold;
+  }
+  .style {
+    font-family: "Lucida Console";
+  }
+  .orange {
+    font-weight: bold;
+    color: orange;
+    font-size: 40px;
+  }
+  .styledFont {
+    font-family: Verdana;
+    color: purple;
+    font-style: italic;
+  }
+  #styledImage {
+    padding: 10px;
+    border: 10px, solid;
+    background-color: black;
+  }
